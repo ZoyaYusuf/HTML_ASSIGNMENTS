@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <!--tables
+   <table border="black" align="center" cellpadding="7" cellspacing="4">
+    <caption>Student Information</caption>
+    <tr>
+        <th rowspan="5">INFO</th>
+        <th rowspan="2">NAME</th>
+        <th colspan="2">ADDRESS</th>
+    </tr> 
+
+    <tr align="center">
+        <th>CITY</th>
+        <th>HOUSE</th>
+    </tr> 
+
+    <tr align="center">
+        <td>ZOYA</td>
+        <td>JODHPUR</td>
+        <td>113</td>
+    </tr> 
+
+    <tr align="center">
+        <td>ZAYYAN</td>
+        <td>JAIPUR</td>
+        <td>83</td>
+    </tr> 
+
+    <tr align="center">
+        <td>DUHA</td>
+        <td>DELHI</td>
+        <td>613</td>
+    </tr> 
+   </table>
+</body>
+</html>
